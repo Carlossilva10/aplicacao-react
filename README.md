@@ -1,2 +1,2 @@
 # aplicacao-react
-Created with CodeSandbox
+Link para o projeto [aqui] (https://nvb3gh-3000.preview.csb.app/)
